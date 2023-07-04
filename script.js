@@ -16,14 +16,12 @@ add.addEventListener("click", function () {
 
     taskList.appendChild(listItem);
     input.value = "";
-    
-    var done=document.getElementById("done");
-    done.addEventListener("click",function(){
-        taskList.innerHTML="";
+
+    var done = document.getElementById("done");
+    done.addEventListener("click", function () {
+        taskList.innerHTML = "";
     })
-    var dark=document.getElementById("darkModeToggle")
-    dark.addEventListener("click",function(){
-        
-    })
+ 
+
 });
 

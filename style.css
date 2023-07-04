@@ -1,6 +1,8 @@
 #txt{
     padding:10px 20px;
     width:80%;
+    background-color: rgb(252, 252, 252);
+    color: #000000;
 }
 body{
     align-content:center ;
@@ -17,6 +19,7 @@ body{
     display: flex;
     align-content:center;
     justify-content: center;
+    
 }
 #id{
     width:5%;
@@ -28,7 +31,8 @@ body{
     margin-top:10px;
     padding:20px 10px;
     font-size: 20px;
-
+    opacity: 90%;
+    background-color: aliceblue;
 }
 .btn-close{
     right:10%;
@@ -39,4 +43,9 @@ body{
     display: flex;
     align-content:center;
     justify-content: center;
+}
+#add
+{
+    font-size: 43px;
+   
 }
