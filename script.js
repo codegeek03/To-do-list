@@ -22,6 +22,8 @@ add.addEventListener("click", function () {
         taskList.innerHTML="";
     })
     var dark=document.getElementById("darkModeToggle")
-    dark.addEventListener("click",function(){})
+    dark.addEventListener("click",function(){
+        
+    })
 });
 
