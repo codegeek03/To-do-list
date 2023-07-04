@@ -1,0 +1,42 @@
+#txt{
+    padding:10px 20px;
+    width:80%;
+}
+body{
+    align-content:center ;
+    justify-content: center;
+}
+.tit{
+    display: flex;
+    align-content:center ;
+    justify-content: center;
+    margin-top: 40px;
+}
+.inp{
+    margin-top: 40px;
+    display: flex;
+    align-content:center;
+    justify-content: center;
+}
+#id{
+    width:5%;
+}
+#task
+{
+    width:90%;
+    border:solid black 2px;
+    margin-top:10px;
+    padding:20px 10px;
+    font-size: 20px;
+
+}
+.btn-close{
+    right:10%;
+    position:fixed;
+}
+#footer{
+    margin-top: 10%;
+    display: flex;
+    align-content:center;
+    justify-content: center;
+}
